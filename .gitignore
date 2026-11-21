@@ -1,0 +1,5 @@
+# Preservar o APK/XAPK original e os artefatos derivados fora do histórico.
+/artifacts/
+*.apk
+*.xapk
+*.obb
